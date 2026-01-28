@@ -1,21 +1,18 @@
 ---
 author: "Jorge Roldan"
-date: "2025-09-20"
-title: "Understanding the Transformer\'s Residual Stream"
+date: "2025-09-27"
+title: "Implementing a Transformer model"
 categories: ["article"]
 ShowToc: true
 ShowBreadCrumbs: false
 draft: true
 ---
 
+<!-- # draf_id = 100 -->
+
 # Outline
 - Introduction
 - Explain the GPT-2 architecture
-- What's this residual stream in a transformer 
-- Why is it important
-- How to access the residual stream before and after every layer
-
-- this is a test for reference [^deep_residual] and [^a_math_framework_for_transformers]
 
 
 # References
